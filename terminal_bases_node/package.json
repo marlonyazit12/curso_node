@@ -1,0 +1,15 @@
+{
+  "name": "terminal_bases_node",
+  "version": "1.0.0",
+  "description": "terminal bases de node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marlon Rodriguez",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.1"
+  }
+}
